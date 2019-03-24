@@ -1,0 +1,24 @@
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\bin\Debug\Fake Syskey.exe.manifest
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\bin\Debug\Fake Syskey.application
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\bin\Debug\Fake Syskey.exe
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\bin\Debug\Fake Syskey.pdb
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\bin\Debug\Fake Syskey.xml
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake_Syskey.Form1.resources
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake_Syskey.Form2.resources
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake_Syskey.Resources.resources
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake Syskey.vbproj.GenerateResource.Cache
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake Syskey.exe.manifest
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake Syskey.application
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake Syskey.exe
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake Syskey.xml
+C:\Users\Lewis\documents\visual studio 2010\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake Syskey.pdb
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\bin\Debug\SAM Lock Tool.exe
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\bin\Debug\SAM Lock Tool.pdb
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\bin\Debug\SAM Lock Tool.xml
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake_Syskey.Syskey1.resources
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake_Syskey.Syskey2.resources
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake_Syskey.Resources.resources
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\Fake Syskey.vbproj.GenerateResource.Cache
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\SAM Lock Tool.exe
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\SAM Lock Tool.xml
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Debug\SAM Lock Tool.pdb
